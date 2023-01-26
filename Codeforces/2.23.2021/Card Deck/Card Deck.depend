@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614073070 source:c:\users\matij\desktop\folder\programming\codeforces\2.23.2021\card deck\main.cpp
+	<iostream>
+	<set>
+

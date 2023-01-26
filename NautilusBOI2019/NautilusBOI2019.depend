@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614366898 source:c:\users\matij\desktop\folder\programming\misc\nautilusboi2019\main.cpp
+	<iostream>
+	<string>
+	<bitset>
+
